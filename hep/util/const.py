@@ -1,0 +1,8 @@
+PROGRAM_NAME = "hep"
+PROGRAM_FOLDER_LINUX = ".local/share/hep"
+PROGRAM_FOLDER_WIN = "%LOCALAPPDATA%\\Hephaestus"
+PLUGINS_DIR = "plugins"
+PLUGINS_FILE = "plugins.json"
+MANIFEST_FILE = "manifest.json"
+DEFAULT_BRANCH = "main"
+DEFAULT_PLUGIN = "https://github.com/hastega/Hephaestus-Default-Plugin.git"
