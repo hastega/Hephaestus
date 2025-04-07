@@ -214,7 +214,7 @@ hep new-plugin <plugin_name>
 
 ## Roadmap
 
-### Version 0.12.0 (Released):
+### Version 1.0.0 (Released):
 - Core plugin management functionality (install, uninstall, list, run).
 - Basic update and upgrade capabilities.
 - New plugin creation.
